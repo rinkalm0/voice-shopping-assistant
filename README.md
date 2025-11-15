@@ -52,8 +52,5 @@ git clone <https://github.com/rinkalm0/voice-shopping-assistant.git>
 # Install dependencies
 npm install
 
-#run
-npm run dev
-
 # Start development server
 npm run dev
